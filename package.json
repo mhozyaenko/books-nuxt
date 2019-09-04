@@ -1,0 +1,23 @@
+{
+  "name": "books-nuxt",
+  "version": "1.0.0",
+  "description": "My wondrous Nuxt.js project",
+  "author": "mhozyaenko",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "firebase": "^6.5.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^4.2.95",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "material-design-icons-iconfont": "^5.0.1"
+  }
+}
